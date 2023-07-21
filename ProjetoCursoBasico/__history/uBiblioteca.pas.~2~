@@ -22,7 +22,7 @@ implementation
   begin
     vArquivo := TIniFile.Create(pLocal);
 
-    Result := vArquivo.ReadString(pSessao, pSubsessao, Result);
+    Result := vArquivo.ReadString(pSessao, pSubsessao, '');
 
     vArquivo.Free;
   end;
