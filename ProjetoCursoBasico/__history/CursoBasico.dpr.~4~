@@ -1,0 +1,17 @@
+program CursoBasico;
+
+uses
+  Forms,
+  uFormMain in 'uFormMain.pas' {FormMain},
+  uDmDados in 'uDmDados.pas' {dmDados: TDataModule},
+  uBiblioteca in 'uBiblioteca.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TdmDados, dmDados);
+  Application.Run;
+end.

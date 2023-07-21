@@ -1,0 +1,25 @@
+unit uDmDados;
+
+interface
+
+uses
+  SysUtils, Classes, Menus, DB, IBDatabase;
+
+type
+  TDataModule1 = class(TDataModule)
+    fdConexao: TIBDatabase;
+    MainMenu1: TMainMenu;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DataModule1: TDataModule1;
+
+implementation
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,14 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 273
+  Width = 592
+  object fdConexao: TIBDatabase
+    DatabaseName = 'C:\Users\VLAdmin\Desktop\Eu\Curso Delphi\Aula5\DADOS.FDB'
+    Params.Strings = (
+      'user_name=SYSdba'
+      'password=masterkey'
+      'lc_ctype=WIN1252')
+    Left = 248
+    Top = 24
+  end
+end

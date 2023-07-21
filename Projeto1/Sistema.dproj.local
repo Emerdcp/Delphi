@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/30 14:10:59.128.pas,C:\Users\VLAdmin\Documents\RAD Studio\Projects\Unit1.pas=C:\xampp\htdocs\Delphi\Projeto1\formHome.pas</Transaction>
+    <Transaction>2023/03/30 14:10:59.128.dfm,C:\Users\VLAdmin\Documents\RAD Studio\Projects\Unit1.dfm=C:\xampp\htdocs\Delphi\Projeto1\formHome.dfm</Transaction>
+    <Transaction>2023/03/30 14:11:03.318.dproj,C:\Users\VLAdmin\Documents\RAD Studio\Projects\Project1.dproj=C:\xampp\htdocs\Delphi\Projeto1\Sistema.dproj</Transaction>
+    <Transaction>2023/03/30 15:14:40.071.pas,C:\xampp\htdocs\Delphi\Projeto1\formHome.pas=C:\xampp\htdocs\Delphi\Projeto1\uFormMain.pas</Transaction>
+    <Transaction>2023/03/30 15:14:40.071.dfm,C:\xampp\htdocs\Delphi\Projeto1\formHome.dfm=C:\xampp\htdocs\Delphi\Projeto1\uFormMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
